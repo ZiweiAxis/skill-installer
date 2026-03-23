@@ -1,0 +1,4 @@
+name: "skill-installer"
+version: "1.0"
+scope: "universal"
+description: "Install, search, and update skills from registries like ClawHub and SkillHub."

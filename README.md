@@ -2,6 +2,13 @@
 
 The acquisition engine for the **Universal Skill Management (USM)** architecture. It facilitates the search, installation, and updating of skills from centralized registries.
 
+## 📦 Installation from Registry
+
+To install or update the `skill-installer` via the public registry:
+```bash
+clawhub install skill-installer-usm
+```
+
 ## 🌟 Overview
 
 `skill-installer` is the bridge between external skill ecosystems (like [ClawHub](https://clawhub.ai)) and your local USM Hub (`~/.skills/`). It ensures that skills are downloaded to the correct global location before they are distributed to specific agent platforms.

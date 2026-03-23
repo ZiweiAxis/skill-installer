@@ -32,3 +32,6 @@ After installing a skill with `skill-installer`, you should always consult **[sk
 - `SKILL.md`: The primary instruction set for the installer.
 - `meta.yaml`: USM metadata for the installer itself.
 - `LICENSE.txt`: Apache License 2.0.
+
+## 🤝 Credits
+This tool is based on the **`skill-install`** implementation from **OpenClaw**.

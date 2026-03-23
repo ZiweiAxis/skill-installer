@@ -1,6 +1,6 @@
 ---
 name: skill-installer
-description: [USM] Install, search, update, and manage skills from registries (ClawHub, SkillHub, etc.).
+description: [USM] Install, search, update, and manage skills from registries (ClawHub, SkillHub, etc.). Use when the user wants to install a skill by slug (e.g. "clawhub install summarize"), search for skills, or update installed skills.
 ---
 
 # ClawHub Skill Manager
